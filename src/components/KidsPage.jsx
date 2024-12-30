@@ -10,7 +10,7 @@ import kid9 from "../assets/kids/kids9.jpg";
 import kid10 from "../assets/kids/kids10.jpg";
 import kid11 from "../assets/kids/kids11.jpg";
 import kid12 from "../assets/kids/kids12.jpg";
-import AdvancedSlider from "./slider/AdvancedSlider";
+import AdvancedSlider from "./Slider/AdvancedSlider.jsx";
 import Navbar from "./Navbar";
 
 const KidsPage = () => {
@@ -32,7 +32,6 @@ const KidsPage = () => {
     <div className="h-screen w-screen overflow-hidden relative">
       <Navbar />
       <AdvancedSlider images={images} />
-
     </div>
   );
 };

@@ -12,8 +12,7 @@ import men11 from "../assets/men/men11.jpg";
 import men12 from "../assets/men/men12.jpg";
 import men13 from "../assets/men/men13.jpg";
 import Navbar from "./Navbar";
-import AdvancedSlider from "./slider/AdvancedSlider";
-import Footer from "./Footer";
+import AdvancedSlider from "./Slider/AdvancedSlider.jsx";
 const MenPage = () => {
   const images = [
     men1,

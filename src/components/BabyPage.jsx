@@ -8,7 +8,7 @@ import baby7 from "../assets/baby/baby7.jpg";
 import baby8 from "../assets/baby/baby8.jpg";
 import baby9 from "../assets/baby/baby9.jpg";
 import Navbar from "./Navbar";
-import AdvancedSlider from "./slider/AdvancedSlider";
+import AdvancedSlider from "./Slider/AdvancedSlider.jsx";
 
 const BabyPage = () => {
   const images = [

@@ -11,7 +11,7 @@ import women10 from "../assets/women/women10.jpg";
 import women11 from "../assets/women/women11.jpg";
 import women12 from "../assets/women/women12.jpg";
 import women13 from "../assets/women/women13.jpg";
-import AdvancedSlider from "./slider/AdvancedSlider.jsx";
+import AdvancedSlider from "./Slider/AdvancedSlider.jsx";
 import Navbar from "./Navbar.jsx";
 const WomenPage = () => {
   const images = [
